@@ -18,27 +18,27 @@ cd .\Desktop\singbox
 سپس یکی از کدهای زیر را اجرا کنید:
 
 ```powershell
-.\sing-box.exe run -c "IranRamonaکانال تلگرام-همراه-ایرانسل.json"
+.\sing-box.exe run -c IranRamonaکانال تلگرام-همراه-ایرانسل.json
 ```
 
 ```powershell
-.\sing-box.exe run -c "ssh-iranramona.json"
+.\sing-box.exe run -c ssh-iranramona.json
 ```
 
 ```powershell
-.\sing-box.exe run -c "ssh-wearestand.json"
+.\sing-box.exe run -c ssh-wearestand.json
 ```
 
 ```powershell
-.\sing-box.exe run -c "wearestand-cdn.json"
+.\sing-box.exe run -c wearestand-cdn.json
 ```
 
 ```powershell
-.\sing-box.exe run -c "iranramona.json"
+.\sing-box.exe run -c iranramona.json
 ```
 
 ```powershell
-.\sing-box.exe run -c "wearestand-supprise.json"
+.\sing-box.exe run -c wearestand-supprise.json
 ```
 
 ---
