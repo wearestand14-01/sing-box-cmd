@@ -37,6 +37,10 @@ cd .\Desktop\singbox
 .\sing-box.exe run -c "iranramona.json"
 ```
 
+```powershell
+.\sing-box.exe run -c "wearestand-supprise.json"
+```
+
 ---
 
 # ویندوز
